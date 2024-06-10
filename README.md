@@ -1,8 +1,10 @@
-<img src="https://github.com/rodcotines/rodcotines/assets/116856833/2860c34a-0f37-4579-a71e-06b171e72804" width="600" height="200">
+<img src="https://github.com/rodcotines/rodcotines/assets/116856833/521fd95a-73a8-4822-b398-25885c3bf9e0" width="1002" height="333">
 
 # 👋 Hi there, I'm Rod!
 
+
 Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and collaborating on interesting projects.
+
 
 
 ## 📫 How to reach me:
