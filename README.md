@@ -1,16 +1,20 @@
-## Hi there 👋
+<img src="https://github.com/rodcotines/rodcotines/assets/116856833/2860c34a-0f37-4579-a71e-06b171e72804" width="600" height="200">
 
-<!--
-**rodcotines/rodcotines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm Rod!
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and collaborating on interesting projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 How to reach me:
+
+- Email: [rodcotines@gmail.com](mailto:rodcotines@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rodcotines/)
+
+## 😄 Pronouns:
+
+- He/Him
+
+
+
+
+Thanks for visiting my profile! Feel free to connect with me or check out my repositories below.
