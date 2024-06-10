@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 ## 📫 How to reach me:
 
 - Email: [rodcotines@gmail.com](mailto:rodcotines@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rodcotines/)
+- LinkedIn: [https://www.linkedin.com/in/rodcotines/](https://www.linkedin.com/in/rodcotines/)
 
 ## 😄 Pronouns:
 
