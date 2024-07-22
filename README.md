@@ -1,4 +1,5 @@
-<img src="https://github.com/rodcotines/rodcotines/assets/116856833/521fd95a-73a8-4822-b398-25885c3bf9e0" width="1002" height="333">
+![Black Modern Personal LinkedIn Banner](https://github.com/user-attachments/assets/db4b2eb4-95b5-4e2e-a37a-e8b44567761a)
+
 
 # 👋 Hi there, I'm Rod!
 
