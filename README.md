@@ -1,5 +1,6 @@
-![Black Modern Personal LinkedIn Banner](https://github.com/user-attachments/assets/db4b2eb4-95b5-4e2e-a37a-e8b44567761a)
 
+
+![LINKEDIN](https://github.com/user-attachments/assets/538f3850-b9b4-4a84-8895-f34d40cc3000)
 
 # 👋 Hi there, I'm Rod!
 
