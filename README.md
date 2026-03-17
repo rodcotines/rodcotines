@@ -25,4 +25,4 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 
 
-Thanks for visiting my profile! Feel free to connect with me or check out my repositories below.
+
