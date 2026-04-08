@@ -2,7 +2,7 @@
 
 ![LINKEDIN](https://github.com/user-attachments/assets/538f3850-b9b4-4a84-8895-f34d40cc3000)
 
-# 👋 Hi there, I'm Rod!
+# 👋 Hi there, I'm Rod!!
 
 
 Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and collaborating on interesting projects.
