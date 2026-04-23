@@ -1,28 +1,88 @@
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2b5e,50:4f6dd4,100:667eea&height=200&section=header&text=Rod%20Cotines&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20·%20UI%20Craftsman&descSize=18&descAlignY=58&descColor=c7d2fe" />
 
-![LINKEDIN](https://github.com/user-attachments/assets/538f3850-b9b4-4a84-8895-f34d40cc3000)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=667EEA&center=true&vCenter=true&width=540&lines=Building+polished+web+experiences+%E2%9C%A8;React+%2B+Next.js+%2B+TypeScript;Smooth+animations+%26+micro-interactions;Always+learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-# 👋 Hi there, I'm Rod!!
+![Profile Views](https://komarev.com/ghpvc/?username=rodcotines&color=667eea&style=flat-square&label=Profile+Views)
 
+</div>
 
-Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and collaborating on interesting projects.
+---
 
-- <h3 align="left">Languages and Tools:</h3>
-<p align="left">  </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>  </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## 👨‍💻 About Me
 
+```typescript
+const rod = {
+  location : "Cavite, Philippines 🇵🇭",
+  role     : "Frontend Developer","Full-Stack Developer",
+  focus    : ["React", "Next.js", "TypeScript", "Framer Motion"],
+  passion  : "Crafting polished, high-performance UIs",
+  hobbies  : ["coding", "design", "learning new tech"],
+}
+```
 
+- 🔭 1+ year of commercial experience shipping production web apps
+- ⚡ Passionate about smooth animations, micro-interactions & Core Web Vitals
+- 🎨 Love translating Figma designs into pixel-perfect, responsive interfaces
+- 🌱 Currently deepening expertise in **GSAP** & **GraphQL**
+- 📫 Reach me at **rodcotines@gmail.com**
 
-## 📫 How to reach me:
+---
 
-- Email: [rodcotines@gmail.com](mailto:rodcotines@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/rodcotines/](https://www.linkedin.com/in/rodcotines/)
+## 🛠️ Tech Stack
 
-## 😄 Pronouns:
+**Frontend**
 
-- He/Him
+[![Frontend Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,remix,html,css,tailwind,vite&perline=9)](https://skillicons.dev)
 
+**Backend & Database**
 
+[![Backend Skills](https://skillicons.dev/icons?i=cs,dotnet,mysql,supabase&perline=9)](https://skillicons.dev)
 
+**Tools**
 
+[![Tools](https://skillicons.dev/icons?i=git,azure,figma,vscode&perline=9)](https://skillicons.dev)
 
+---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=rodcotines&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodcotines&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+
+<img src="https://streak-stats.demolab.com?user=rodcotines&theme=tokyonight&hide_border=true&background=0d1117" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🎬 [**Watchopia**](https://github.com/rodcotines/watchopia) | Movie & TV show discovery app with TMDB API integration and smooth UI transitions | Next.js, TypeScript, Tailwind CSS |
+| 🎓 [**Kabsu.me**](https://github.com/kabsu-me) | Social platform exclusively for Cavite State University students, faculty & alumni | Next.js, TypeScript, Supabase |
+| 🏢 [**Digital Kubo**](https://github.com/rodcotines/digitalkubo) | Promotional business website with built-in PDF viewer | Next.js, Tailwind CSS |
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodcotines/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodcotines@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rodcotines.vercel.app)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:1f2b5e&height=120&section=footer" />
+
+</div>
