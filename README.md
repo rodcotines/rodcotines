@@ -16,7 +16,7 @@
 const rod = {
   location : "Cavite, Philippines 🇵🇭",
   role     : "Frontend Developer","Full-Stack Developer",
-  focus    : ["React", "Next.js", "TypeScript", "Framer Motion"],
+  focus    : ["React", "Next.js", "TypeScript"],
   passion  : "Crafting polished, high-performance UIs",
   hobbies  : ["coding", "design", "learning new tech"],
 }
