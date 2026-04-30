@@ -21,13 +21,6 @@ const rod = {
   hobbies  : ["coding", "design", "learning new tech"],
 }
 ```
-
-- 🔭 1+ year of commercial experience shipping production web apps
-- ⚡ Passionate about smooth animations, micro-interactions & Core Web Vitals
-- 🎨 Love translating Figma designs into pixel-perfect, responsive interfaces
-- 🌱 Currently deepening expertise in **GSAP** & **GraphQL**
-- 📫 Reach me at **rodcotines@gmail.com**
-
 ---
 
 ## 🛠️ Tech Stack
